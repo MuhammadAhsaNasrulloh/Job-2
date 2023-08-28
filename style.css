@@ -121,7 +121,7 @@ body {
   min-height: 100vh;
   display: flex;
   align-items: center;
-  background-image: url("/img/mario-la-pergola-cn51tm7V0mU-unsplash.jpg");
+  background-image: url("mario-la-pergola-cn51tm7V0mU-unsplash.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -172,7 +172,7 @@ body {
 .about {
   padding: 8rem 15% 5rem;
   /* ini poto background nya bisa di ganti jadi apa aja */
-  background-image: url(/img/BG\ About.png);
+  background-image: url(BG);
   background-size: cover;
   background-position: center;
   position: relative;
@@ -222,7 +222,7 @@ body {
 /* Contact Section */
 .contact-us {
   padding: 8rem 15% 5rem;
-  background-image: url(/img/mario-la-pergola-cn51tm7V0mU-unsplash.jpg);
+  background-image: url(mario-la-pergola-cn51tm7V0mU-unsplash.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   min-height: 100vh;
